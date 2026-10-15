@@ -1,0 +1,14 @@
+# Data handling & visualization
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning & Deep Learning
+scikit-learn
+tensorflow
+
+# Dataset & Notebook environment
+kagglehub
+ipykernel
+jinja2
